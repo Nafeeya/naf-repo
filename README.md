@@ -1,7 +1,9 @@
 # naf-repo
 new repository
 
-hey!
-was that too much about learning?
-or too weird about it?
-anyway, thats my view..
+
+hey guys!
+am new to learning GITHUB
+but learning is always new to everyone
+that is why it os called learning
+
